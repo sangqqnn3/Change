@@ -1,17 +1,20 @@
 [
   {
     "HardwareId": "g0qTC-Cw1JgTwOeX",
-    "LicenseKey": "GENERATED_LICENSE_KEY",
+    "LicenseKey": "LICENSE-KEY-EXAMPLE-123",
     "IsActive": true,
-    "ActivatedDate": "2024-01-01 00:00:00",
-    "ExpiryDate": "2029-01-01 00:00:00"
+    "ActivatedDate": "2024-01-01",
+    "ExpiryDate": "2025-12-31",
+    "CustomerName": "Khách hàng mẫu",
+    "Email": "customer@example.com"
   },
-    {
+  {
     "HardwareId": "aw0LgzkHjrgOr08K",
-    "LicenseKey": "GENERATED_LICENSE_KEY",
+    "LicenseKey": "LICENSE-KEY-EXAMPLE-456",
     "IsActive": true,
-    "ActivatedDate": "2024-01-01 00:00:00",
-    "ExpiryDate": "2029-01-01 00:00:00"
+    "ActivatedDate": "2024-02-01",
+    "ExpiryDate": "2025-12-31",
+    "CustomerName": "Khách hàng khác",
+    "Email": "another@example.com"
   }
-
 ]
