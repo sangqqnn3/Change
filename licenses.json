@@ -1,4 +1,4 @@
-
+﻿{
     "version":  "2.0",
     "system_buffers_check":  false,
     "settings":  {
@@ -17,7 +17,7 @@
                          "HardwareId":  "bM6VLvsQlsPFGelJ",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
                      },
                      {
                          "IsActive":  true,
@@ -26,6 +26,7 @@
                          "HardwareId":  "g0qTC-Cw1JgTwOeX",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
                      }
                  ]
+}
