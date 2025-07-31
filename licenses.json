@@ -1,23 +1,5 @@
 [
   {
-    "HardwareId": "g0qTC-Cw1JgTwOeX",
-    "LicenseKey": "LICENSE-KEY-EXAMPLE-123",
-    "IsActive": true,
-    "ActivatedDate": "2024-01-01",
-    "ExpiryDate": "2025-12-31",
-    "CustomerName": "Khách hàng mẫu",
-    "Email": "customer@example.com"
-  },
-  {
-    "HardwareId": "aw0LgzkHjrgOr08K",
-    "LicenseKey": "LICENSE-KEY-EXAMPLE-456",
-    "IsActive": true,
-    "ActivatedDate": "2024-02-01",
-    "ExpiryDate": "2025-12-31",
-    "CustomerName": "Khách hàng khác",
-    "Email": "another@example.com"
-  }
-  {
   "HardwareId": "aw0LgzkHjrgOr08K",
   "LicenseKey": "LICENSE-20241231-001",
   "IsActive": true,
@@ -25,5 +7,14 @@
   "ExpiryDate": "2025-12-31",
   "CustomerName": "Tên khách hàng",
   "Email": "customer@domain.com"
-}
+  }
+    {
+  "HardwareId": "g0qTC-Cw1JgTwOeX",
+  "LicenseKey": "LICENSE-20241231-001",
+  "IsActive": true,
+  "ActivatedDate": "2024-12-31",
+  "ExpiryDate": "2025-12-31",
+  "CustomerName": "Tên khách hàng",
+  "Email": "customer@domain.com"
+  }
 ]
