@@ -17,4 +17,13 @@
   "CustomerName": "Tên khách hàng",
   "Email": "customer@domain.com"
   }
+      {
+  "HardwareId": "bM6VLvsQlsPFGelJ",
+  "LicenseKey": "LICENSE-20241231-001",
+  "IsActive": true,
+  "ActivatedDate": "2024-12-31",
+  "ExpiryDate": "2025-12-31",
+  "CustomerName": "Tên khách hàng",
+  "Email": "customer@domain.com"
+  }
 ]
